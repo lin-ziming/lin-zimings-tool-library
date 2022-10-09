@@ -8,4 +8,3 @@
 
 - 又一五笔输入法：[下载](https://gitee.com/lin-ziming/lin-zimings-tool-library/releases/tag/v1.1)
 
-test
